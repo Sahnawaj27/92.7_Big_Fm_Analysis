@@ -1,7 +1,9 @@
-#Challenge Overview
+**Challenge Overview:**
+
 The task is to craft SQL queries to extract insights from the 92.7 BIG FM radio network database.
 
-Questions
+**Questions:**
+
 1.Retrieve all stations in the "East" region?
 
 2.List all shows hosted by "Vrajesh Hirjee"?
@@ -22,7 +24,8 @@ Questions
 
 10.Rank hosts based on the number of shows they have hosted?
 
-Tables
+**Tables:**
+
 To tackle the challenge, I worked with the following tables:
 
 1.Hosts
@@ -39,9 +42,7 @@ To tackle the challenge, I worked with the following tables:
 
 7.Show Partnerships
 
-Concepts used :
-
-
+**Concepts used :**
 
 Aggregated Functions: SUM, COUNT
 
